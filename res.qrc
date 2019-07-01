@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/icons">
+        <file alias="app-icon">icons/app-icon.png</file>
+        <file alias="open-folder-icon">icons/open-folder-icon.png</file>
+        <file alias="previous-icon">icons/previous-icon.png</file>
+        <file alias="next-icon">icons/next-icon.png</file>
+    </qresource>
+</RCC>
